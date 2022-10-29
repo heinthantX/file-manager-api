@@ -1,4 +1,6 @@
-dist
 node_modules
-*.env
+seed-files
+# Keep environment variables out of version control
+.env
+.files/
 .DS_Store
